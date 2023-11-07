@@ -31,7 +31,7 @@ grid-template-rows 292px */
 }
 header {
   height: 50px;
-  margin: 40px 0;
+  margin: 40px auto;
   .container {
     width: 1200px;
     display: flex;
@@ -41,6 +41,7 @@ header {
   }
   .menu {
     display: none;
+    user-select: none;
     background-image: url("assets/images/icon-menu.svg");
     background-repeat: no-repeat;
     background-size: cover;
