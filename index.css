@@ -8,8 +8,7 @@ html {
 * {
   box-sizing: border-box;
 }
-/* grid-template-columns 453.328px 453.328px 453.328px
-grid-template-rows 292px */
+
 :root {
   --off-white: hsl(36, 100%, 99%);
   --grayish-blue: hsl(233, 8%, 79%);
